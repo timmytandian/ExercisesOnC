@@ -15,3 +15,4 @@ For example:
 |exercise07.c|A program to get the number of lines, words, chars from a text file | UTDallas exercise no. 7 |
 |exercise07-input.txt|A companion text file to be read by exercise07.c | UTDallas exercise no. 7 |
 |ex-permute.c|A program that displays all permutation possibilities from a given string | Link to [Cprogramming Permutation Challenge](https://www.cprogramming.com/challenges/permute.html "Permutation Challenge") |
+|ex-dectobin.c|A program that reads decimal number and return its binary representation. | Link to [Cprogramming Dec to Bin Challenge](https://www.cprogramming.com/challenges/dectobin.html "Dec to Bin Challenge") |
